@@ -1,0 +1,7 @@
+customtkinter
+msal
+office365-rest-python-client
+requests
+pywin32
+openpyxl
+keyring
